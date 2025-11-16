@@ -8,16 +8,19 @@
 
   <p>👨‍💻 Backend Developer | 🎓 Applied Math & Informatics @ MPEI | 🔒 Security Enthusiast</p>
 
-  <h2>Tech Stack & Tools 💼</h2>
 
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" />
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" title="Go" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" title="Docker" />
-    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" title="RabbitMQ" />
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" />
-    <img src="https://img.shields.io/badge/ClickHouse-000000?style=for-the-badge&logo=clickhouse&logoColor=white" title="ClickHouse" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" title="Ubuntu" />
+<h1>
+    <a href="animated">
+      <p color="#2336BCF7">Tech Stack & Tools 💼&#128421;</p>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" title="Git"/>&nbsp;
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" title="Python"/>&nbsp;
+      <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white" title="Go"/>&nbsp;
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" title="Shell Script"/>&nbsp;
+      <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" title="RabbitMQ"/>&nbsp;
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" title="PostgreSQL"/>&nbsp;
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" title="Docker"/>&nbsp;
+    </a>
+  </h1>
   
 
 <h2>🌐 Connect with Me</h2>
