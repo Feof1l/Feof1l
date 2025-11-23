@@ -83,6 +83,19 @@
 
 <div align="center">
 
+  <h3><a href="https://github.com/Feof1l/copilot-application">Copilot application</a></h3>
+  <p>The integrated Mistral model for solving problems of economics and microbusiness.
+  Go + python + frontend microservices chain</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+</div>
+
+<div align="center">
+
   <h3><a href="https://github.com/Feof1l/TelegramHrBot">HR Telegram Bot</a></h3>
   <p>Automates HR processes: conducts initial interviews, collects candidate data, and filters out those who don’t meet minimum requirements. All data is stored in PostgreSQL for focused human review.</p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
